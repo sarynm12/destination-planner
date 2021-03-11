@@ -1,3 +1,4 @@
+require 'faker'
 
 class Seed
   def self.start
