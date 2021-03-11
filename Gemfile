@@ -17,6 +17,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootstrap', '~> 4.4.1'
 gem 'bootsnap'
 gem 'jquery-rails'
+gem 'figaro'
 
 
 group :development, :test do
